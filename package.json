@@ -1,0 +1,13 @@
+{
+  "name": "express-mongoose-basic-crud",
+  "version": "0.0.0",
+  "description": "Basic mongoose model CRUD adapter for express",
+  "main": "index.js",
+  "keywords": ["mongo", "mongoose", "express", "crud"],
+  "author": "Leif Arriens",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1"
+  }
+}
